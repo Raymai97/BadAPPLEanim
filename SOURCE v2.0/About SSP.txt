@@ -1,0 +1,15 @@
+SSP, Simple Sequence Pack, is a new file format developed by Raymai97. It provides better performance and smaller file size.
+
+BadAPPLEanim v2 uses SSP instead of 7 DLLs. Please make sure you copy the ba.ssp into program directory before you run BadAPPLEanim.
+
+PNG-32 SSP used the PNGs from the original Screensaver.
+PNG-8 SSP has MUCH smaller file size but silghtly quality decreases.
+
+NOTE:
+Due to GITHUB file size limitation, you need to manually download SSP file from my google drive.
+
+PNG-32
+https://docs.google.com/file/d/0B12MDBXxXjX2aTJsOC1GUDVNVlE
+
+PNG-8
+https://docs.google.com/file/d/0B12MDBXxXjX2dEtFZE1TaE1uUmc
